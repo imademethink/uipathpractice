@@ -1,0 +1,6 @@
+C:\Users\sharathm\source\repos\ExtractFileDetails\ExtractFileDetails\bin\Debug\ExtractFileDetails.dll
+C:\Users\sharathm\source\repos\ExtractFileDetails\ExtractFileDetails\bin\Debug\ExtractFileDetails.pdb
+C:\Users\sharathm\source\repos\ExtractFileDetails\ExtractFileDetails\obj\Debug\ExtractFileDetails.csprojAssemblyReference.cache
+C:\Users\sharathm\source\repos\ExtractFileDetails\ExtractFileDetails\obj\Debug\ExtractFileDetails.csproj.CoreCompileInputs.cache
+C:\Users\sharathm\source\repos\ExtractFileDetails\ExtractFileDetails\obj\Debug\ExtractFileDetails.dll
+C:\Users\sharathm\source\repos\ExtractFileDetails\ExtractFileDetails\obj\Debug\ExtractFileDetails.pdb

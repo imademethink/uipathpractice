@@ -1,0 +1,1 @@
+"C:\Users\sharathm\AppData\Local\UiPath\app-19.5.0\UiRobot.exe" /file:"C:\Users\sharathm\Documents\UiPath\Hello_World\Main.xaml"
